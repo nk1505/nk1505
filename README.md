@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Nejc Krševec.
 - 👀  I’m interested in programming and hacking.
-- 🌱  I’m currently learning python and hacking in Kali Linux. 
-- I'm a student in first class of computer way on Vegova middle school.
+- 🌱  I’m currently learning PHP and hacking with Kali Linux tools. 
+- I'm a student in second class of computer way on Vegova middle school.
 - You can contact me: krasevec.nejc@gmail.com 
 
 <!---
