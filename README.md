@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Nejc Krševec.
+- 👋  Hi, I’m Nejc Kraševec.
 - 👀  I’m interested in programming and hacking.
 - 🌱  I’m currently learning PHP and hacking with Kali Linux tools. 
 - I'm a student in second class of computer way on Vegova middle school.
